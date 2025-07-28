@@ -1,4 +1,4 @@
-// 5. src/components/App.jsx
+// 55. src/components/App.jsx
 import React from "react";
 import { Routes, Route } from "react-router-dom";
 import NavBar from "./NavBar";
